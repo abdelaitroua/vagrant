@@ -1,5 +1,5 @@
 # vagrant
-##Vagrant Crash Course In Class Assignment:
+## Vagrant Crash Course In Class Assignment:
 We will be simulating a real-life example of a development team working on a PHP project.  Each team will have an exact replica of the production environment and each member will submit a file to the repo.
 1.	Following my slides instructions, create a LAMP stack development environment on your machine.
 2.	In your project folder, clone my repo and provision vagrant using my shared environment
